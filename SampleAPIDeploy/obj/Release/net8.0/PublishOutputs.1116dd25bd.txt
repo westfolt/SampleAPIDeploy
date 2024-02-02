@@ -1,0 +1,11 @@
+C:\Users\westfolt\source\repos\SampleAPIDeploy\SampleAPIDeploy\obj\Release\net8.0\PubTmp\Out\SampleAPIDeploy.exe
+C:\Users\westfolt\source\repos\SampleAPIDeploy\SampleAPIDeploy\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\westfolt\source\repos\SampleAPIDeploy\SampleAPIDeploy\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\westfolt\source\repos\SampleAPIDeploy\SampleAPIDeploy\obj\Release\net8.0\PubTmp\Out\SampleAPIDeploy.dll
+C:\Users\westfolt\source\repos\SampleAPIDeploy\SampleAPIDeploy\obj\Release\net8.0\PubTmp\Out\SampleAPIDeploy.deps.json
+C:\Users\westfolt\source\repos\SampleAPIDeploy\SampleAPIDeploy\obj\Release\net8.0\PubTmp\Out\SampleAPIDeploy.runtimeconfig.json
+C:\Users\westfolt\source\repos\SampleAPIDeploy\SampleAPIDeploy\obj\Release\net8.0\PubTmp\Out\SampleAPIDeploy.pdb
+C:\Users\westfolt\source\repos\SampleAPIDeploy\SampleAPIDeploy\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\westfolt\source\repos\SampleAPIDeploy\SampleAPIDeploy\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\westfolt\source\repos\SampleAPIDeploy\SampleAPIDeploy\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\westfolt\source\repos\SampleAPIDeploy\SampleAPIDeploy\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
